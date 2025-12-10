@@ -1,6 +1,6 @@
 # Cryptography Portfolio
 
-A simple Python project for learning cryptography. Made for MTH 349.
+A Python project for learning cryptography. Made for MTH 349.
 
 ## What is this?
 
