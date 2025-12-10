@@ -14,7 +14,7 @@ This project has:
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/cryp.git
+git clone https://github.com/dreuxx/cryp.git
 cd cryp
 
 # Create virtual environment
